@@ -1,0 +1,3 @@
+Chuỗi a và c là 2 chuỗi đầu vào
+Hàm substr sẽ xử lý chuỗi trước khi hiển thị lên màn hình
+Biến b(int) sẽ trả về là 1
